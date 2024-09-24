@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxime@leadlike.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximeseligman/)
 
----
+--- 
 
 Experienced Technical Project Manager with over 10 years of expertise in leading cross-functional teams, managing large-scale infrastructure projects, and delivering technical solutions in high-pressure environments. Skilled in Agile methodologies, cloud technologies, and infrastructure development. Proven track record of driving complex technical projects from inception to completion while maintaining alignment with business objectives and stakeholder expectations.
 

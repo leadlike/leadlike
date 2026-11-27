@@ -1,50 +1,38 @@
-# 👋 Hello, I'm Maxime Seligman
-### Technical Project Manager | Cloud Enthusiast | Team Leader
+# Maxime Seligman
+### Enterprise Solution Architect and Technical Leader
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxime@leadlike.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximeseligman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximeseligman/)
 
---- 
+---
 
-Experienced Technical Project Manager with over 10 years of expertise in leading cross-functional teams, managing large-scale infrastructure projects, and delivering technical solutions in high-pressure environments. Skilled in Agile methodologies, cloud technologies, and infrastructure development. Proven track record of driving complex technical projects from inception to completion while maintaining alignment with business objectives and stakeholder expectations.
+I turn complex business systems into scalable, governed platforms, and build the teams that run them.
+
+About 20 years in CRM and cloud software, on Salesforce since 2013, in architecture since 2018, and about 10 years leading technical teams of up to 25 people. Based in Jerusalem, Israel.
 
 ---
 
-### 🔧 Key Skills
-- **Project Management**: Agile, Scrum, Waterfall, Kanban, Risk Management, Budgeting, Resource Allocation
-- **Technical Expertise**: AWS, Salesforce, Dynamics CRM, On-premise and Cloud Infrastructure, DevOps Practices
-- **Leadership**: Team Leadership, Cross-functional Collaboration, Vendor Management
-- **Tools**: JIRA, Confluence, Git, Jenkins, Docker, Kubernetes
-- **Languages**: French (native), English (fluent), Hebrew (intermediate), Russian (intermediate)
+### What I do
+- **Enterprise architecture and business applications**: platform decisions, roadmaps, standards
+- **Integration and data flows**: API-led and event-driven, with an owner, monitoring and a recovery path for every key integration
+- **Governance and delivery**: security models, code review, change management, CI/CD
+- **AI adoption**: from proof of concept to delivery
+- **Leadership**: sprint planning, mentoring, budgets and timelines
 
 ---
 
-### 🌟 Key Achievements
-- Achieved a 90% job placement rate for graduates within three months of course completion.
-- Automated key administrative processes, reducing operational costs by 20%.
+### Featured projects
+- **[salesforce-devops](https://github.com/leadlike/salesforce-devops)**: a generic, vendor-neutral four-environment model (Sandbox, QA, UAT, Production) for secure environment continuity in self-hosted setups, with a Node.js reference implementation.
+- **[salesforce-file-import](https://github.com/leadlike/salesforce-file-import)**: a PowerShell uploader for Salesforce ContentVersion, with metadata and duplicate handling.
 
 ---
 
-### 📚 Education
-- **Master’s in Information Systems** – [University Name], [Year]
-- **Certified Salesforce Administrator**
-- **AWS Certified Solutions Architect – Associate**
+### Credentials
+- Salesforce: Platform Data Architect, Agentforce Specialist, Advanced Administrator, Administrator, Platform App Builder, Marketing Cloud Engagement Specialist
+- Google Project Management certificate
+- B.A. in Computer Science, Hebrew University of Jerusalem
 
 ---
 
-### 📜 Certifications
-- AWS Certified Solutions Architect
-- Certified Scrum Master
-- Salesforce Certified Administrator
-- PRINCE2 Practitioner
-
----
-
-### ⚒️ Languages-Frameworks-Tools ⚒️
-![Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,vscode,github)
-
----
-
-### 📊 GitHub Stats 📊
-
-![Maxime Seligman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leadlike&show_icons=true&theme=radical)
+### Languages
+French (native), Hebrew (fluent), English (fluent)

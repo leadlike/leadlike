@@ -23,7 +23,7 @@ About 20 years in CRM and cloud software, on Salesforce since 2013, in architect
 
 ### Featured projects
 - **[salesforce-devops](https://github.com/leadlike/salesforce-devops)**: a generic, vendor-neutral four-environment model (Sandbox, QA, UAT, Production) for secure environment continuity in self-hosted setups, with a Node.js reference implementation.
-- **[salesforce-file-import](https://github.com/leadlike/salesforce-file-import)**: a PowerShell uploader for Salesforce ContentVersion, with metadata and duplicate handling.
+- **[salesforce-file-import](https://github.com/leadlike/salesforce-file-import)**: a reference implementation for validating, importing and reconciling documents in Salesforce with configurable mappings and synthetic data (in progress).
 
 ---
 
